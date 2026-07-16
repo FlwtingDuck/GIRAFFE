@@ -35,7 +35,7 @@ The following instructions can be followed to install **Giraffe** in MS Windows 
 
   2. Clone [GIRAFFE repository](https://github.com/alfredogneto/GIRAFFE.git). For that, you can use the git command or download it manually using the web browser.
 ```cmd
-git clone https://github.com/alfredogneto/GIRAFFE.git
+git clone https://github.com/FlwtingDuck/GIRAFFE.git
 ```
   3. Run the provided `install_dependencies.bat`.
   
