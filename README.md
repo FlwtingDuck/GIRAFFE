@@ -33,7 +33,9 @@ The following instructions can be followed to install **Giraffe** in MS Windows 
 
 	[Microsoft Visual Studio](https://visualstudio.microsoft.com/)
 
-  2. Clone [GIRAFFE repository](https://github.com/alfredogneto/GIRAFFE.git). For that, you can use the git command or download it manually using the web browser.
+	[7zip](https://www.7-zip.org/)
+
+  3. Clone [GIRAFFE repository](https://github.com/alfredogneto/GIRAFFE.git). For that, you can use the git command or download it manually using the web browser.
 ```cmd
 git clone https://github.com/FlwtingDuck/GIRAFFE.git
 ```
